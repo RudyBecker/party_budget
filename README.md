@@ -4,8 +4,6 @@ Party app was created on Rails using the Model View Controller (MVC) software de
 
 ## Features 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 1. This app takes two inputs a)budget b)amount of attendees
 2. There is a choice of three party tiers to choose from
 3. Tier is automatically assigned based on user input of budget and attendance
